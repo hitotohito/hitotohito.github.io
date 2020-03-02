@@ -82,7 +82,7 @@ main {
 }
 
 iframe {
-    width:100%;
+    width:90%;
     height: 660px;
 }
 
@@ -90,6 +90,7 @@ button {
     font-size: 2rem;
     border-radius: 100%;
     z-index: 10;
+    border: 0;
     
     
 }
