@@ -81,6 +81,9 @@ main {
     text-align: left;
     margin-top: 300px;
 }
+.text p {
+    text-align: left;
+}
 
 iframe {
     width:100%;
